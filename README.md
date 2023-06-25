@@ -1,6 +1,6 @@
 # ez80disasm
 
-A disassembler for adl=0 eZ80 code
+A disassembler for ADL and Z80 eZ80 code
 
 Build with:
 
